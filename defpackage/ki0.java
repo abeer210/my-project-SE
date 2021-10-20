@@ -1,0 +1,94 @@
+package defpackage;
+
+import vigqyno.C0201;
+
+/* renamed from: ki0  reason: default package */
+public final class ki0 {
+    public static final int abc_action_bar_home_description = 0;
+    public static final int abc_action_bar_up_description = 0;
+    public static final int abc_action_menu_overflow_description = 0;
+    public static final int abc_action_mode_done = 0;
+    public static final int abc_activity_chooser_view_see_all = 0;
+    public static final int abc_activitychooserview_choose_application = 0;
+    public static final int abc_capital_off = 0;
+    public static final int abc_capital_on = 0;
+    public static final int abc_menu_alt_shortcut_label = 0;
+    public static final int abc_menu_ctrl_shortcut_label = 0;
+    public static final int abc_menu_delete_shortcut_label = 0;
+    public static final int abc_menu_enter_shortcut_label = 0;
+    public static final int abc_menu_function_shortcut_label = 0;
+    public static final int abc_menu_meta_shortcut_label = 0;
+    public static final int abc_menu_shift_shortcut_label = 0;
+    public static final int abc_menu_space_shortcut_label = 0;
+    public static final int abc_menu_sym_shortcut_label = 0;
+    public static final int abc_prepend_shortcut_label = 0;
+    public static final int abc_search_hint = 0;
+    public static final int abc_searchview_description_clear = 0;
+    public static final int abc_searchview_description_query = 0;
+    public static final int abc_searchview_description_search = 0;
+    public static final int abc_searchview_description_submit = 0;
+    public static final int abc_searchview_description_voice = 0;
+    public static final int abc_shareactionprovider_share_with = 0;
+    public static final int abc_shareactionprovider_share_with_application = 0;
+    public static final int abc_toolbar_collapse_description = 0;
+    public static final int alert_description = 0;
+    public static final int button_description = 0;
+    public static final int catalyst_change_bundle_location = 0;
+    public static final int catalyst_copy_button = 0;
+    public static final int catalyst_debug = 0;
+    public static final int catalyst_debug_chrome = 0;
+    public static final int catalyst_debug_chrome_stop = 0;
+    public static final int catalyst_debug_connecting = 0;
+    public static final int catalyst_debug_error = 0;
+    public static final int catalyst_debug_nuclide = 0;
+    public static final int catalyst_debug_nuclide_error = 0;
+    public static final int catalyst_debug_stop = 0;
+    public static final int catalyst_dismiss_button = 0;
+    public static final int catalyst_heap_capture = 0;
+    public static final int catalyst_hot_reloading = 0;
+    public static final int catalyst_hot_reloading_auto_disable = 0;
+    public static final int catalyst_hot_reloading_auto_enable = 0;
+    public static final int catalyst_hot_reloading_stop = 0;
+    public static final int catalyst_inspector = 0;
+    public static final int catalyst_loading_from_url = 0;
+    public static final int catalyst_perf_monitor = 0;
+    public static final int catalyst_perf_monitor_stop = 0;
+    public static final int catalyst_reload = 0;
+    public static final int catalyst_reload_button = 0;
+    public static final int catalyst_reload_error = 0;
+    public static final int catalyst_report_button = 0;
+    public static final int catalyst_sample_profiler_disable = 0;
+    public static final int catalyst_sample_profiler_enable = 0;
+    public static final int catalyst_settings = 0;
+    public static final int catalyst_settings_title = 0;
+    public static final int combobox_description = 0;
+    public static final int header_description = 0;
+    public static final int image_description = 0;
+    public static final int imagebutton_description = 0;
+    public static final int link_description = 0;
+    public static final int menu_description = 0;
+    public static final int menubar_description = 0;
+    public static final int menuitem_description = 0;
+    public static final int progressbar_description = 0;
+    public static final int radiogroup_description = 0;
+    public static final int rn_tab_description = 0;
+    public static final int scrollbar_description = 0;
+    public static final int search_description = 0;
+    public static final int search_menu_title = 0;
+    public static final int spinbutton_description = 0;
+    public static final int state_busy_description = 0;
+    public static final int state_collapsed_description = 0;
+    public static final int state_expanded_description = 0;
+    public static final int state_mixed_description = 0;
+    public static final int state_off_description = 0;
+    public static final int state_on_description = 0;
+    public static final int status_bar_notification_info_overflow = 0;
+    public static final int summary_description = 0;
+    public static final int tablist_description = 0;
+    public static final int timer_description = 0;
+    public static final int toolbar_description = 0;
+
+    static {
+        C0201.m83(ki0.class, 149);
+    }
+}

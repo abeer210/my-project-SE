@@ -1,0 +1,88 @@
+package net.alhazmy13.hijridatepicker;
+
+import vigqyno.C0201;
+
+public final class g {
+    public static final int abc_action_bar_home_description = 0;
+    public static final int abc_action_bar_up_description = 0;
+    public static final int abc_action_menu_overflow_description = 0;
+    public static final int abc_action_mode_done = 0;
+    public static final int abc_activity_chooser_view_see_all = 0;
+    public static final int abc_activitychooserview_choose_application = 0;
+    public static final int abc_capital_off = 0;
+    public static final int abc_capital_on = 0;
+    public static final int abc_menu_alt_shortcut_label = 0;
+    public static final int abc_menu_ctrl_shortcut_label = 0;
+    public static final int abc_menu_delete_shortcut_label = 0;
+    public static final int abc_menu_enter_shortcut_label = 0;
+    public static final int abc_menu_function_shortcut_label = 0;
+    public static final int abc_menu_meta_shortcut_label = 0;
+    public static final int abc_menu_shift_shortcut_label = 0;
+    public static final int abc_menu_space_shortcut_label = 0;
+    public static final int abc_menu_sym_shortcut_label = 0;
+    public static final int abc_prepend_shortcut_label = 0;
+    public static final int abc_search_hint = 0;
+    public static final int abc_searchview_description_clear = 0;
+    public static final int abc_searchview_description_query = 0;
+    public static final int abc_searchview_description_search = 0;
+    public static final int abc_searchview_description_submit = 0;
+    public static final int abc_searchview_description_voice = 0;
+    public static final int abc_shareactionprovider_share_with = 0;
+    public static final int abc_shareactionprovider_share_with_application = 0;
+    public static final int abc_toolbar_collapse_description = 0;
+    public static final int appbar_scrolling_view_behavior = 0;
+    public static final int bottom_sheet_behavior = 0;
+    public static final int character_counter_content_description = 0;
+    public static final int character_counter_pattern = 0;
+    public static final int fab_transformation_scrim_behavior = 0;
+    public static final int fab_transformation_sheet_behavior = 0;
+    public static final int hide_bottom_view_on_scroll_behavior = 0;
+    public static final int mdtp_am = 0;
+    public static final int mdtp_ampm_circle_radius_multiplier = 0;
+    public static final int mdtp_cancel = 0;
+    public static final int mdtp_circle_radius_multiplier = 0;
+    public static final int mdtp_circle_radius_multiplier_24HourMode = 0;
+    public static final int mdtp_date = 0;
+    public static final int mdtp_date_v1_monthyear = 0;
+    public static final int mdtp_date_v2_daymonthyear = 0;
+    public static final int mdtp_day_of_week_label_typeface = 0;
+    public static final int mdtp_day_picker_description = 0;
+    public static final int mdtp_deleted_key = 0;
+    public static final int mdtp_done_label = 0;
+    public static final int mdtp_hour_picker_description = 0;
+    public static final int mdtp_item_is_selected = 0;
+    public static final int mdtp_minute_picker_description = 0;
+    public static final int mdtp_numbers_radius_multiplier_inner = 0;
+    public static final int mdtp_numbers_radius_multiplier_normal = 0;
+    public static final int mdtp_numbers_radius_multiplier_outer = 0;
+    public static final int mdtp_ok = 0;
+    public static final int mdtp_pm = 0;
+    public static final int mdtp_radial_numbers_typeface = 0;
+    public static final int mdtp_sans_serif = 0;
+    public static final int mdtp_second_picker_description = 0;
+    public static final int mdtp_select_day = 0;
+    public static final int mdtp_select_hours = 0;
+    public static final int mdtp_select_minutes = 0;
+    public static final int mdtp_select_seconds = 0;
+    public static final int mdtp_select_year = 0;
+    public static final int mdtp_selection_radius_multiplier = 0;
+    public static final int mdtp_text_size_multiplier_inner = 0;
+    public static final int mdtp_text_size_multiplier_normal = 0;
+    public static final int mdtp_text_size_multiplier_outer = 0;
+    public static final int mdtp_time = 0;
+    public static final int mdtp_time_placeholder = 0;
+    public static final int mdtp_time_separator = 0;
+    public static final int mdtp_year_picker_description = 0;
+    public static final int mtrl_chip_close_icon_content_description = 0;
+    public static final int password_toggle_content_description = 0;
+    public static final int path_password_eye = 0;
+    public static final int path_password_eye_mask_strike_through = 0;
+    public static final int path_password_eye_mask_visible = 0;
+    public static final int path_password_strike_through = 0;
+    public static final int search_menu_title = 0;
+    public static final int status_bar_notification_info_overflow = 0;
+
+    static {
+        C0201.m83(g.class, 226);
+    }
+}
